@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Admin-Dashboard-React/static/css/main.a72c82de.css",
+    "main.js": "/Admin-Dashboard-React/static/js/main.f4ea39b0.js",
+    "index.html": "/Admin-Dashboard-React/index.html",
+    "main.a72c82de.css.map": "/Admin-Dashboard-React/static/css/main.a72c82de.css.map",
+    "main.f4ea39b0.js.map": "/Admin-Dashboard-React/static/js/main.f4ea39b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a72c82de.css",
+    "static/js/main.f4ea39b0.js"
+  ]
+}
